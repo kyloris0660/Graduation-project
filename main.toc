@@ -1,0 +1,18 @@
+\contentsline {chapter}{摘\ 要}{II}{chapter*.2}%
+\contentsline {chapter}{ABSTRACT}{III}{chapter*.3}%
+\contentsline {chapter}{\numberline {第1章}模板介绍}{1}{chapter.1}%
+\contentsline {section}{\numberline {\S 1.1}\textsc {ShuThesis}模板（本模板的基模板）介绍}{1}{section.1.1}%
+\contentsline {section}{\numberline {\S 1.2}\textsc {ShuBachelorThesis-OSC}\ 模板}{1}{section.1.2}%
+\contentsline {section}{\numberline {\S 1.3}目录内容}{1}{section.1.3}%
+\contentsline {section}{\numberline {\S 1.4}模板使用}{2}{section.1.4}%
+\contentsline {chapter}{\numberline {第2章}表格和插图}{3}{chapter.2}%
+\contentsline {section}{\numberline {\S 2.1}表格}{3}{section.2.1}%
+\contentsline {section}{\numberline {\S 2.2}插图}{3}{section.2.2}%
+\contentsline {chapter}{\numberline {第3章}数学和定理环境}{4}{chapter.3}%
+\contentsline {section}{\numberline {\S 3.1}数学宏包}{4}{section.3.1}%
+\contentsline {section}{\numberline {\S 3.2}定理类环境}{4}{section.3.2}%
+\contentsline {subsection}{\numberline {\S 3.2.1}\textsc {ShuThesis}\ 预定义的定理类环境}{4}{subsection.3.2.1}%
+\contentsline {chapter}{\numberline {第4章}参考文献}{6}{chapter.4}%
+\contentsline {chapter}{作者在攻读本科学位期间发表的论文与研究成果}{7}{section*.7}%
+\contentsline {chapter}{致\hskip 1em\relax 谢}{8}{section*.9}%
+\contentsline {chapter}{\numberline {附录 A}经典不等式}{9}{appendix.A}%
